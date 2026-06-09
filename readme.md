@@ -148,7 +148,7 @@ const ahmad = {
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <div align="center">
 
@@ -173,7 +173,7 @@ const ahmad = {
   <img src="https://github-profile-trophy.vercel.app/?username=ahmadalkhaidar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
 
----
+--- -->
 
 ## 📬 Get In Touch
 
